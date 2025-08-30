@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj": {}
+  },
+  "projects": {
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj",
+        "projectName": "Messages",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

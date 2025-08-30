@@ -1,0 +1,503 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Project_4_B_Side/Project_4_B_Side.csproj": {}
+  },
+  "projects": {
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Filters and Sorters/Filters and Sorters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Filters and Sorters/Filters and Sorters.csproj",
+        "projectName": "Filters and Sorters",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Filters and Sorters/Filters and Sorters.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Filters and Sorters/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Info/Info.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Info/Info.csproj",
+        "projectName": "Info",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Info/Info.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Info/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/MenuLibrary/MenuLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/MenuLibrary/MenuLibrary.csproj",
+        "projectName": "MenuLibrary",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/MenuLibrary/MenuLibrary.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/MenuLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Filters and Sorters/Filters and Sorters.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Filters and Sorters/Filters and Sorters.csproj"
+              },
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Parsers/Parsers.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Parsers/Parsers.csproj"
+              },
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            },
+            "Spectre.Console.Cli": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj",
+        "projectName": "Messages",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Parsers/Parsers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Parsers/Parsers.csproj",
+        "projectName": "Parsers",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Parsers/Parsers.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Parsers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Project_4_B_Side/Project_4_B_Side.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Project_4_B_Side/Project_4_B_Side.csproj",
+        "projectName": "Project_4_B_Side",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Project_4_B_Side/Project_4_B_Side.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Project_4_B_Side/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/MenuLibrary/MenuLibrary.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/MenuLibrary/MenuLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            },
+            "Spectre.Console.Cli": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj",
+        "projectName": "ToDoLib",
+        "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/ToDoLib.csproj",
+        "packagesPath": "/Users/sem0nch1k/.nuget/packages/",
+        "outputPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/ToDoLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sem0nch1k/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Info/Info.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Info/Info.csproj"
+              },
+              "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj": {
+                "projectPath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            },
+            "Spectre.Console.Cli": {
+              "target": "Package",
+              "version": "[0.49.2-preview.0.76, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/sem0nch1k/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

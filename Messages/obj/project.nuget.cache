@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0P8JSe3tus=",
+  "success": true,
+  "projectFilePath": "/Users/sem0nch1k/Documents/ВШЭ/Первый курс/С#/Проекты/Модуль№3/Проект_4/Project_4_B_Side/Messages/Messages.csproj",
+  "expectedPackageFiles": [
+    "/Users/sem0nch1k/.nuget/packages/bouncycastle.cryptography/2.5.1/bouncycastle.cryptography.2.5.1.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/mailkit/4.11.0/mailkit.4.11.0.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/mimekit/4.11.0/mimekit.4.11.0.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/spectre.console/0.49.2-preview.0.76/spectre.console.0.49.2-preview.0.76.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/system.formats.asn1/8.0.1/system.formats.asn1.8.0.1.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "/Users/sem0nch1k/.nuget/packages/telegram.bot/18.0.0/telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
